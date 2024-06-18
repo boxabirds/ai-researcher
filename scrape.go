@@ -7,7 +7,7 @@ import (
 	"net/http"
 )
 
-// Define the response struct to match the JSON response structure
+// Must match firecrawl.dev
 type ScrapeResult struct {
 	Success bool `json:"success"`
 	Data    struct {
