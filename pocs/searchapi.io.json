@@ -1,0 +1,510 @@
+{
+  "search_metadata": {
+    "id": "search_WG6ZMRV4jp7tQd7DWk2X071E",
+    "status": "Success",
+    "created_at": "2024-06-18T14:25:17Z",
+    "request_time_taken": 7.3,
+    "parsing_time_taken": 0.25,
+    "total_time_taken": 7.54,
+    "request_url": "https://www.google.com/search?q=chatgpt&oq=chatgpt&gl=us&hl=en&ie=UTF-8",
+    "html_url": "https://www.searchapi.io/api/v1/searches/search_WG6ZMRV4jp7tQd7DWk2X071E.html",
+    "json_url": "https://www.searchapi.io/api/v1/searches/search_WG6ZMRV4jp7tQd7DWk2X071E"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "chatgpt",
+    "device": "desktop",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "query_displayed": "chatgpt",
+    "total_results": 1170000000,
+    "time_taken_displayed": 0.2
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Chatgpt",
+      "link": "https://chatgpt.com/",
+      "source": "chatgpt.com",
+      "domain": "chatgpt.com",
+      "displayed_link": "https://www.chatgpt.com",
+      "snippet": "Openai — Just ask and ChatGPT can help with writing, learning, brainstorming and more. ChatGPT is...",
+      "snippet_highlighted_words": [
+        "ChatGPT",
+        "ChatGPT"
+      ]
+    }
+  ],
+  "knowledge_graph": {
+    "kgmid": "/g/11khcfz0y2",
+    "knowledge_graph_type": "Kp3 verticals",
+    "title": "ChatGPT",
+    "type": "Software",
+    "description": "ChatGPT is a chatbot and virtual assistant developed by OpenAI and launched on November 30, 2022. Based on large language models, it enables users to refine and steer a conversation towards a desired length, format, style, level of detail, and language.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/ChatGPT"
+    },
+    "developer": "OpenAI, Microsoft",
+    "developer_links": [
+      {
+        "text": "OpenAI",
+        "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=OpenAI&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgItjbuK5dmA2L3ta2Ero3Ypd_sib6W4Pr5sCi7O_W3yzdqxwyrjzsYeYOtNg2ogL1xVq9TKwgD48tL7rygfkRfNyy4k-R5yQgywoFukoCUths6NdRX69gl50cvd6dpZcMzVelCxT7mxXlRchl6XkueG326znDiZL-ODNOysdnCc4XoeAQUFtbaVjja6Vc7WkQF4X8rUdbDKPVU9WyLOV765d8Y777kMI7-nXGGyD7xXJX5E3HA%3D%3D&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQmxMoAHoECDgQAg"
+      },
+      {
+        "text": "Microsoft",
+        "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=Microsoft&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm-SdjhIP74XAMBYys4zy1Z9yzXEom04F9Qy-tMOt2d-L6jIC5cXse6I528G870-4sF-DZYAPj0F1HoGTUOqpWuP7jbEPm3w_-mCH0wVgBHBGCgxRrCaUn8_k2-aga9V9JD6hkq2kM8zVmERCqCM8rqo3bNfbPdJ-baTq4w8Pkxdan3K--CfOtXX--lTjJtO6BnfG2RdpY_jBfy3uZZ7DeAE4-P4rvKuty6UL6le4dqqDt-kLQA%3D%3D&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQmxMoAXoECDgQAw"
+      }
+    ],
+    "initial_release_date": "November 30, 2022",
+    "programming_language": "Python",
+    "programming_language_links": [
+      {
+        "text": "Python",
+        "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=Python&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmwbtPHPEcZi5JOYKaqe_iu1m4TVPotntrDVKbuXCkoFhx-K-Dp6PbewOILPFWjhDofHha-WRuSQCgY7LnBkzXtVH7pxiRdHONv3wpVsflGBg_EdTHCxOnyWt1nDgBmCjsfchXU7DKtJq159-V0-seE_cp7VV&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQmxMoAHoECDcQAg"
+      }
+    ],
+    "engine": "GPT-3.5; GPT-4 (paid); GPT-4o",
+    "engine_links": [
+      {
+        "text": "GPT-4",
+        "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=GPT-4&stick=H4sIAAAAAAAAAONgVuLVT9c3NMy2TI_PNUtOX8TK6h4QomsCAKiBOxkZAAAA&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQmxMoAHoECDoQAg"
+      },
+      {
+        "text": "GPT-4o",
+        "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=GPT-4o&stick=H4sIAAAAAAAAAONgVuLVT9c3NCyryEg3rMooWMTK5h4QomuSDwC3NAfvGgAAAA&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQmxMoAXoECDoQAw"
+      }
+    ],
+    "license": "Proprietary",
+    "platform": "Cloud computing platforms",
+    "platform_links": [
+      {
+        "text": "Cloud computing",
+        "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=Cloud+computing&stick=H4sIAAAAAAAAAONgVuLSz9U3MKqMt8w1XsTK75yTX5qikJyfW1BakpmXDgB-4JvxIAAAAA&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQmxMoAHoECDkQAg"
+      }
+    ],
+    "stable_release": "April 29, 2024; 49 days ago",
+    "people_also_search_for": [
+      {
+        "name": "QuillBot",
+        "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgOgrEAdFatPXKfCICjOxREAzVpeeMME2wlLvhAQx55fiJ9g-Jcp3XjBJREpo16NS9gJB6uG0Xn5Mk8zxiT9SmnN9Dc6fW7Wh2G8BItpak1ZjzXt0qmS9DAODL0oWyUfAuz7L6oVBYR9Xmbj20JhMHPkJojflRbP9LAM40JArv9SWtsBJmUReLTo1-t53wfHEWHb_2pIf5CvdUWJKLh73kLvf_-EL9GWyrFdCPQSVLFsJecsy6GINrpnStzHiFer03k2d94VYFuziDNgFRX9joXAIHXDJ&q=QuillBot&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQs9oBKAB6BAg1EAI",
+        "image": "data:image/png;…"
+      },
+      {
+        "name": "Gemini",
+        "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgPJC_mql38AZtPLAx7iSE6xO4h_xPASENtrHg3uQxhi6CrdZvCI9FWdNt9Oc_4jhy_8gLnxBIlGXhUEfhjc6FrwXQvSyJbiscXxnGAVCtoB4ve5Uvvy7jCYiVnamieoS0UjgHdxcbgB3YlrYNlgsFn4Hjz-fec83fbWKqKZ-NWtoANqJpNovVpf29X2UqiYanvhXVLZUBIGBfZXvFGL9esxpalGXa_eVLcDqu2ArowTJeS1MoThdr8n4DBrnMRscG78rJzzW5tGwzBZ2K4KU0O9iy6nF&q=Gemini&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQs9oBKAF6BAg1EAM",
+        "image": "data:image/jpeg;…"
+      },
+      {
+        "name": "GPT‑4",
+        "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgECnv1zq8EnaGC9xFhd4vVY0fa6J2V6sodKRP2dcd1ci2-tXoKTDw4nVVryZGNH0coN7bInujupHlv51M1E_vIIEZSAF3IMp_LeuJbp0AAxgLZf6XtxbWESg4cKT2kvYKIF6RsJ0yl671oaCAow-SrOL4_hg5DM2xZ3zE6xQkBK3aIahZRgRkcaWWQWtCdZ_CtDqZ8RIkO9SvGQYjNzrnNpJQ18uNyiT2bPPjap6UhxRGkeR28lqD1C18kpueg7jYtYq9nd-tmbUsAgyz06bcFsWcQPu&q=GPT-4&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQs9oBKAJ6BAg1EAQ",
+        "image": "data:image/png;…"
+      },
+      {
+        "name": "WhatsApp",
+        "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&si=ACC90ny8E30vD16OoPAAI4cStfcliGy35W8UAhb0TsHNc_ISQeJelKSnrsAj9j3zyo9tmSVb-J4Vz8a4peTnF1HpGqisJamSzV66XfkbZw2IYwsxtdIMDgwr1HJ8sm48mHlRMKRDUxa64lrsJVaDcU7KIoRjexE0PQ-BMdJhLclsVTZyhFWOiCIhtUaDIRSQSa2Rv8YgzMkHHmJ8Rf8AdURZznYIVRVd5rT_ZttCLxNzOwKGlsdOWR4rvwOSpU_nz2E2nZRgQTchkiI3wbVN-WKdRuCq5FRZ5JzDSBIVHc7dQPtlRBLPKVo%3D&q=WhatsApp&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQs9oBKAN6BAg1EAU",
+        "image": "data:image/png;…"
+      }
+    ],
+    "image": "data:image/png;…"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Introducing ChatGPT",
+      "link": "https://openai.com/index/chatgpt/",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "displayed_link": "https://openai.com › index › chatgpt",
+      "snippet": "ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.",
+      "snippet_highlighted_words": [
+        "ChatGPT"
+      ],
+      "date": "Nov 30, 2022",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Introducing GPT-4o and more...",
+            "link": "https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/"
+          },
+          {
+            "title": "Whisper API",
+            "link": "https://openai.com/index/introducing-chatgpt-and-whisper-apis/"
+          },
+          {
+            "title": "How the voices for ChatGPT...",
+            "link": "https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/"
+          }
+        ]
+      },
+      "favicon": "data:image/png;…",
+      "thumbnail": "data:image/jpeg;…"
+    },
+    {
+      "position": 2,
+      "title": "ChatGPT",
+      "link": "https://openai.com/chatgpt/",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "displayed_link": "https://openai.com › chatgpt",
+      "snippet": "Free to use. Easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming, and more. Start now (opens in a new window)Download the app.",
+      "snippet_highlighted_words": [
+        "ChatGPT"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Download ChatGPT",
+            "link": "https://openai.com/chatgpt/download/"
+          },
+          {
+            "title": "What is ChatGPT Plus?",
+            "link": "https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus"
+          },
+          {
+            "title": "For Teams",
+            "link": "https://openai.com/chatgpt/team/"
+          },
+          {
+            "title": "Pricing",
+            "link": "https://openai.com/chatgpt/pricing/"
+          }
+        ]
+      },
+      "favicon": "data:image/png;…",
+      "thumbnail": "data:image/jpeg;…"
+    },
+    {
+      "position": 3,
+      "title": "ChatGPT on the App Store - Apple",
+      "link": "https://apps.apple.com/us/app/chatgpt/id6448311069",
+      "source": "Apple",
+      "domain": "apps.apple.com",
+      "displayed_link": "https://apps.apple.com › app › chatgpt",
+      "snippet": "This official app is free, syncs your history across devices, and brings you the newest model improvements from OpenAI. With ChatGPT in your pocket ...",
+      "snippet_highlighted_words": [
+        "ChatGPT"
+      ],
+      "rich_snippet": {
+        "detected_extensions": {
+          "rating": 4.9,
+          "reviews": 909090
+        },
+        "extensions": [
+          "Rating: 4.9",
+          "909,090 reviews",
+          "Free",
+          "iOS",
+          "Business/Productivity"
+        ]
+      },
+      "favicon": "data:image/png;…",
+      "thumbnail": "data:image/jpeg;…"
+    },
+    {
+      "position": 4,
+      "title": "ChatGPT - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en_US",
+      "source": "Google Play",
+      "domain": "play.google.com",
+      "displayed_link": "https://play.google.com › store › apps › details › id=com...",
+      "snippet": "This official app is free, syncs your history across devices, and brings you the newest model improvements from OpenAI. With ChatGPT in your pocket, you'll find ...",
+      "snippet_highlighted_words": [
+        "ChatGPT"
+      ],
+      "rich_snippet": {
+        "detected_extensions": {
+          "rating": 4.8,
+          "reviews": 2105838
+        },
+        "extensions": [
+          "Rating: 4.8",
+          "2,105,838 votes",
+          "Free",
+          "Android",
+          "Business/Productivity"
+        ]
+      },
+      "favicon": "data:image/png;…",
+      "thumbnail": "data:image/jpeg;…"
+    },
+    {
+      "position": 5,
+      "title": "OpenAI",
+      "link": "https://openai.com/",
+      "source": "OpenAI",
+      "domain": "openai.com",
+      "displayed_link": "https://openai.com",
+      "snippet": "Open AI | Creating safe AGI that benefits all of humanity. ; Apple & ChatGPT · OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences.",
+      "snippet_highlighted_words": [
+        "ChatGPT",
+        "ChatGPT"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "ChatGPT",
+            "link": "https://openai.com/chatgpt/"
+          },
+          {
+            "title": "Download ChatGPT",
+            "link": "https://openai.com/chatgpt/download/"
+          },
+          {
+            "title": "ChatGPT for teams",
+            "link": "https://openai.com/chatgpt/team/"
+          },
+          {
+            "title": "ChatGPT Pricing",
+            "link": "https://openai.com/chatgpt/pricing/"
+          }
+        ]
+      },
+      "favicon": "data:image/png;…",
+      "thumbnail": "data:image/jpeg;…"
+    },
+    {
+      "position": 6,
+      "title": "ChatGPT",
+      "link": "https://chatgpt.com/",
+      "source": "ChatGPT",
+      "domain": "chatgpt.com",
+      "displayed_link": "https://chatgpt.com",
+      "snippet": "ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, ...",
+      "snippet_highlighted_words": [
+        "ChatGPT",
+        "ChatGPT"
+      ],
+      "favicon": "data:image/png;…"
+    },
+    {
+      "position": 7,
+      "title": "ChatGPT",
+      "link": "https://www.reddit.com/r/ChatGPT/",
+      "source": "Reddit · r/ChatGPT",
+      "domain": "www.reddit.com",
+      "displayed_link": "5.9M+ followers",
+      "snippet": "r/ChatGPT: Subreddit to discuss about ChatGPT and AI. Not affiliated with OpenAI. Thanks Nat!",
+      "snippet_highlighted_words": [
+        "ChatGPT",
+        "ChatGPT"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Increased downtime for ChatGPT - Reddit",
+            "link": "https://www.reddit.com/r/ChatGPT/comments/1di6gb8/increased_downtime_for_chatgpt/",
+            "date": "Jun 17, 2024"
+          },
+          {
+            "title": "ChatGPT has caused a massive drop in demand for online ...",
+            "link": "https://www.reddit.com/r/technology/comments/1dh6hha/chatgpt_has_caused_a_massive_drop_in_demand_for/",
+            "date": "Jun 16, 2024"
+          }
+        ]
+      },
+      "favicon": "data:image/png;…",
+      "thumbnail": "data:image/png;…"
+    },
+    {
+      "position": 8,
+      "title": "What is ChatGPT and why does it matter? Here's what you ...",
+      "link": "https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/",
+      "source": "ZDNET",
+      "domain": "www.zdnet.com",
+      "displayed_link": "https://www.zdnet.com › ... › Artificial Intelligence",
+      "snippet": "ChatGPT is an AI chatbot with natural language processing (NLP) that allows you to have human-like conversations to complete various tasks. The ...",
+      "snippet_highlighted_words": [
+        "ChatGPT"
+      ],
+      "date": "1 day ago",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How to use ChatGPT",
+            "link": "https://www.zdnet.com/article/how-to-use-chatgpt/"
+          },
+          {
+            "title": "ChatGPT dropped a free app...",
+            "link": "https://www.zdnet.com/article/chatgpt-dropped-a-free-app-for-iphones-does-it-live-up-to-the-hype/"
+          },
+          {
+            "title": "Android",
+            "link": "https://www.zdnet.com/article/official-chatgpt-app-for-android-finally-launches/"
+          },
+          {
+            "title": "Write an essay",
+            "link": "https://www.zdnet.com/article/how-to-use-chatgpt-to-write-an-essay/"
+          }
+        ]
+      },
+      "favicon": "data:image/png;…",
+      "thumbnail": "data:image/jpeg;…"
+    },
+    {
+      "position": 9,
+      "title": "ChatGPT",
+      "link": "https://en.wikipedia.org/wiki/ChatGPT",
+      "source": "Wikipedia",
+      "domain": "en.wikipedia.org",
+      "displayed_link": "https://en.wikipedia.org › wiki › ChatGPT",
+      "snippet": "ChatGPT is a chatbot and virtual assistant developed by OpenAI and launched on November 30, 2022. Based on large language models (LLMs), it enables users to ...",
+      "snippet_highlighted_words": [
+        "ChatGPT"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "OpenAI",
+            "link": "https://en.wikipedia.org/wiki/OpenAI"
+          },
+          {
+            "title": "GPT-4",
+            "link": "https://en.wikipedia.org/wiki/GPT-4"
+          },
+          {
+            "title": "GPT-3",
+            "link": "https://en.wikipedia.org/wiki/GPT-3"
+          },
+          {
+            "title": "Chatbot",
+            "link": "https://en.wikipedia.org/wiki/Chatbot"
+          }
+        ]
+      },
+      "favicon": "data:image/png;…",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRulZojXouBitjOO4kMaCghMRk4PILJCm3QREVfo-q1RVrhxHB4a_Rw&usqp=CAE&s"
+    },
+    {
+      "position": 10,
+      "title": "What Is ChatGPT? Everything You Need to Know About ...",
+      "link": "https://www.businessinsider.com/everything-you-need-to-know-about-chat-gpt-2023-1",
+      "source": "Business Insider",
+      "domain": "www.businessinsider.com",
+      "displayed_link": "https://www.businessinsider.com › Tech",
+      "snippet": "Chatbots like ChatGPT are powered by large amounts of data and computing techniques to make predictions to string words together in a meaningful ...",
+      "snippet_highlighted_words": [
+        "ChatGPT"
+      ],
+      "date": "May 15, 2024",
+      "favicon": "data:image/png;…",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTUYvSvnnfCRdQIVLyvxz9YaV_AN_Ga_Ol15XeL3r2FGELcbS3-Quf&usqp=CAE&s"
+    }
+  ],
+  "inline_images": {
+    "images": [
+      {
+        "title": "upload.wikimedia.org/wikipedia/commons/0/04/ChatGP...",
+        "source": {
+          "name": "en.m.wikipedia.org",
+          "link": "https://en.m.wikipedia.org/wiki/File:ChatGPT_logo.svg"
+        },
+        "original": {
+          "link": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+          "height": 800,
+          "width": 800,
+          "size": "1KB"
+        },
+        "thumbnail": "data:image/png;…"
+      },
+      {
+        "title": "Introducing ChatGPT | OpenAI",
+        "source": {
+          "name": "OpenAI",
+          "link": "https://openai.com/blog/chatgpt/"
+        },
+        "original": {
+          "link": "https://images.ctfassets.net/kftzwdyauwt9/cf717bdb-0c8c-428a-51aece018863/fba2ef801eed8515b7d5e8fa1b063270/ChatGPT_Diagram.svg?w=3840&q=90&fm=webp",
+          "height": 677,
+          "width": 1140,
+          "size": "75KB"
+        },
+        "thumbnail": "data:image/jpeg;…"
+      },
+      {
+        "title": "ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners",
+        "source": {
+          "name": "YouTube",
+          "link": "https://www.youtube.com/watch?v=JTxsNm9IdYU"
+        },
+        "original": {
+          "link": "https://i.ytimg.com/vi/JTxsNm9IdYU/maxresdefault.jpg",
+          "height": 720,
+          "width": 1280,
+          "size": "134KB"
+        },
+        "thumbnail": "data:image/jpeg;…"
+      },
+      {
+        "title": "Introducing ChatGPT | OpenAI",
+        "source": {
+          "name": "OpenAI",
+          "link": "https://openai.com/blog/chatgpt/"
+        },
+        "original": {
+          "link": "https://images.ctfassets.net/kftzwdyauwt9/8d14e8f0-e267-4b8b-b4555ea27a38/3171211d9c2dd62dd8c34ee667ac1c2f/chatgpt.jpg",
+          "height": 2048,
+          "width": 2048,
+          "size": "908KB"
+        },
+        "thumbnail": "data:image/jpeg;…"
+      },
+      {
+        "title": "What is ChatGPT? Everything you need to know | Tom's Guide",
+        "source": {
+          "name": "Tom's Guide",
+          "link": "https://www.tomsguide.com/news/chatgpt"
+        },
+        "original": {
+          "link": "https://cdn.mos.cms.futurecdn.net/7FnxdYvdQ3Ugo3WjnKaYiK-1200-80.jpg",
+          "height": 675,
+          "width": 1200,
+          "size": "57KB"
+        },
+        "thumbnail": "data:image/jpeg;…"
+      }
+    ]
+  },
+  "related_searches": [
+    {
+      "query": "ChatGPT login",
+      "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=ChatGPT+login&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQ1QJ6BAhSEAE"
+    },
+    {
+      "query": "Chatgpt free",
+      "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=Chatgpt+free&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQ1QJ6BAhREAE"
+    },
+    {
+      "query": "Chatgpt app",
+      "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=Chatgpt+app&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQ1QJ6BAhQEAE"
+    },
+    {
+      "query": "Chatgpt download",
+      "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=Chatgpt+download&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQ1QJ6BAhPEAE"
+    },
+    {
+      "query": "ChatGPT 4",
+      "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=ChatGPT+4&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQ1QJ6BAhNEAE"
+    },
+    {
+      "query": "ChatGPT website",
+      "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=ChatGPT+website&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQ1QJ6BAhMEAE"
+    },
+    {
+      "query": "ChatGPT free online",
+      "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=ChatGPT+free+online&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQ1QJ6BAhLEAE"
+    },
+    {
+      "query": "Chatgpt apk",
+      "link": "https://www.google.com/search?sca_esv=8eb2b271edd6fc02&sca_upv=1&hl=en&gl=us&q=Chatgpt+apk&sa=X&ved=2ahUKEwi7z9nPreWGAxVkIzQIHeXZD2gQ1QJ6BAhOEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=chatgpt&oq=chatgpt&gl=us&hl=en&start=10&ie=UTF-8"
+  }
+}
